@@ -1,5 +1,5 @@
 # bibliotecas_pandas
-# Respondendo aos questionamentos
+
 
 * A Questão de Negócio:
   - Qual a minha meta?
